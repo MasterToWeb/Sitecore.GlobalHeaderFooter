@@ -1,0 +1,14 @@
+﻿---
+ID: "7bc8c302-707c-4ee2-89ae-4967645bb412"
+Parent: "509978e3-d69d-4422-a3c1-97ede9714887"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/PageContent/_Global Page Structure/Page Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T200100Z

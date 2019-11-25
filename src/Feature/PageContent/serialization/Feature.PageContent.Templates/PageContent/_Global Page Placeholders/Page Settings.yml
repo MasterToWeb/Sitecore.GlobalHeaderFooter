@@ -1,0 +1,14 @@
+﻿---
+ID: "d6448873-9275-4380-b376-9a1c3c79c043"
+Parent: "f633c5e6-4e51-4953-8215-e22a32ff891d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/PageContent/_Global Page Placeholders/Page Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T180409Z

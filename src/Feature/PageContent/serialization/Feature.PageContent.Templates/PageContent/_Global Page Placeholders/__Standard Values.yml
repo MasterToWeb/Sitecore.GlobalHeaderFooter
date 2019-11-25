@@ -1,0 +1,24 @@
+﻿---
+ID: "a936468c-6d98-4a9d-909d-d1db095e3814"
+Parent: "f633c5e6-4e51-4953-8215-e22a32ff891d"
+Template: "f633c5e6-4e51-4953-8215-e22a32ff891d"
+Path: /sitecore/templates/Feature/PageContent/_Global Page Placeholders/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c28b586-72f3-4b43-a6d1-159b3e5d547d"
+      Hint: Header Item Placeholder
+      Value: "page-header"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T181230Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ff6e9353-b0a2-4d5b-b885-4083ccbfda51"
+      Hint: Footer Item Placeholder
+      Value: "page-footer"
